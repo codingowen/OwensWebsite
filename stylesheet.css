@@ -1,0 +1,81 @@
+* {
+	font-family: "Helvetica", sans-serif;
+	/*font-family: "Courier New", monospace;*/
+	/*font-family: "Times New Roman", serif;*/
+}
+div.header {
+	text-align: center
+}
+div.sitenav {
+	text-align: center
+}
+div.content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50em;
+	
+	font: 0.85em/1.62 sans-serif
+}
+
+
+a:link {
+	color: #2200A8
+	/*#4da3ff*/
+}
+
+a:visited {
+	color: #2200A8
+}
+
+a:hover {
+	color: #4da3ff
+}
+
+p.content2 {
+	text-align: center;
+	width: 51em;
+}
+
+p.content {
+	text-indent: 2em;
+}
+p.caption {
+	text-align: center;
+}
+div.image_box{
+	text-align: center;
+}
+h2.proj_section {
+	border: 1px solid black;
+	text-align: center;
+}
+h3.proj_header {
+	text-align: center;
+}
+div.contact {
+	border: 1px solid black;
+	text-align: center;
+}
+div.videobox{
+	width: 640px;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.code{
+	background: black;
+	border: 1px solid black;
+}
+p.code {
+	margin: 1px;
+	padding-left: 5px;
+	border: 1px solid white;
+	color: white;
+}
+/* 
+    Autogen table from http://www.tablesgenerator.com/html_tables
+*/
+.tg  {border-collapse:collapse;border-spacing:0; margin-left: auto; margin-right: auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-s8tc{background-color:#6cf26c;text-align:right}
+.tg .tg-nxw9{background-color:#ff6a35;text-align:right}
